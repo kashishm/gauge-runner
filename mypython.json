@@ -1,0 +1,37 @@
+{
+    "id": "mypython",
+    "version": "0.0.1",
+    "description": "mypython support for gauge",
+    "run": {
+        "windows": [
+            "./start.py",
+            "--start"
+        ],
+        "linux": [
+            "./start.py",
+            "--start"
+        ],
+        "darwin": [
+            "./start.py",
+            "--start"
+        ]
+    },
+    "init": {
+        "windows": [
+            "./start.py",
+            "--init"
+        ],
+        "linux": [
+            "./start.py",
+            "--init"
+        ],
+        "darwin": [
+            "./start.py",
+            "--init"
+        ]
+    },
+    "gaugeVersionSupport": {
+        "minimum": "0.8.0",
+        "maximum": ""
+    }
+}

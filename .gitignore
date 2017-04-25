@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+bin/
+logs/
+dist/
+MANIFEST
+gauge.egg-info/
+htmlcov/
+.coverage
+install.sh
+docs/build/doctrees
+docs/build/html
